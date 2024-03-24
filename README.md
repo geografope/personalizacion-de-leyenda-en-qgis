@@ -9,3 +9,6 @@ Si eres un apasionado de la cartografía y deseas profundizar tus conocimientos 
 - https://github.com/geografope
 
 #QGIS #Cartografía #GIS #SoftwareLibre #mapas
+
+## Recursos
+- https://plugins.qgis.org/styles/types/Legend%20Patch/
