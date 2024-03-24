@@ -10,5 +10,21 @@ Si eres un apasionado de la cartografía y deseas profundizar tus conocimientos 
 
 #QGIS #Cartografía #GIS #SoftwareLibre #mapas
 
+## Resultados
+![img](./resources/leyenda.png)
+<br>
+<table>
+ <tr>
+   <td>Formal</td>
+   <td>Artístico</td>
+ </tr>
+ <tr>
+   <td><img src='./resources/mapa.png'></td>
+   <td><img src='./resources/artistico.png'></td>
+ </tr>
+</table>
+
+
 ## Recursos
 - https://plugins.qgis.org/styles/types/Legend%20Patch/
+- https://septima.dk/nyheder/QGIS-legend-patches
