@@ -1,4 +1,4 @@
-<img src='resources/banner.png'>
+<img src='resources/banner_title.png'>
 ¿Quieres llevar tus leyendas de QGIS al siguiente nivel 👀? 🗺️✨ 
 
 En este repositorio encontrarás algunos truquitos y expresiones que pueden potenciar tu visualización de mapas en QGIS, sobre todo te ayudará a crear tus propios estilos (**patch shape**)  para tus propios diseños cartográficos 🎨🌐.
