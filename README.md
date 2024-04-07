@@ -28,6 +28,6 @@ Si eres un apasionado de la cartografía y deseas profundizar tus conocimientos 
 </table>
 
 
-## Recursos
+## Referencias
 - https://plugins.qgis.org/styles/types/Legend%20Patch/
 - https://septima.dk/nyheder/QGIS-legend-patches
