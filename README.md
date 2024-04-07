@@ -11,8 +11,6 @@ Si eres un apasionado de la cartografía y deseas profundizar tus conocimientos 
 - https://www.youtube.com/@geografope
 - https://github.com/geografope
 
-#QGIS #Cartografía #GIS #SoftwareLibre #mapas
-
 ## Resultados
 ![img](./resources/leyenda.png)
 <br>
