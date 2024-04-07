@@ -8,8 +8,9 @@ Si eres un apasionado de la cartografía y deseas profundizar tus conocimientos 
 
 
 ¡Enteráte más y aprender conmigo! 🔍💡 Suscríbete, activa las notificaciones 🔔 y únete a la comunidad que ama el software libre. 🌟🌍 👇
-- https://www.youtube.com/@geografope
-- https://github.com/geografope
+- <img src='https://raw.githubusercontent.com/geografope/recursos/d7be118ef25f46cb6f748d623012bcc9c8e76db6/youtube.svg' width=20 align='center'> https://www.youtube.com/@geografope
+
+- <img src='https://raw.githubusercontent.com/geografope/recursos/d7be118ef25f46cb6f748d623012bcc9c8e76db6/tiktok.svg' width=15 align='center'> https://www.tiktok.com/@geografope
 
 ## 🟢 Resultados
 ![img](./resources/leyenda.png)
